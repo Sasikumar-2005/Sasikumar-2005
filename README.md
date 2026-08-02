@@ -1,7 +1,10 @@
 # Hi 👋, I'm Sasi Kumar
 
 ## Java Full Stack Developer
+
 🎓 Final Year B.Tech Student at Madanapalle Institute of Technology & Science
+
+---
 
 ## 👨‍💻 About Me
 
@@ -11,47 +14,59 @@
 - 🚀 Building a Delivery Management System project
 - 📚 Preparing for Java Full Stack Developer placements
 - 🤝 Always eager to learn new technologies and improve my coding skills
-  ## 🛠️ Tech Stack
 
-### Programming Languages
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 - Java
 - JavaScript
 - SQL
 
-### Frontend
+### 🎨 Frontend
 - HTML5
 - CSS3
 - React.js
 
-### Backend
+### ⚙️ Backend
 - Spring Boot
 - REST API
 
-### Database
+### 🗄️ Database
 - MySQL
 
-### Tools
+### 🛠️ Tools
 - Git
 - GitHub
 - VS Code
 - Eclipse
 - Postman
-  
-💻 Passionate about Java, Spring Boot, React, MySQL, and Web Development
 
-### 🚀 Projects
-#### 🚚 Delivery Management System
+---
+
+## 🚀 Projects
+
+### 🚚 Delivery Management System
+
 A full-stack web application for delivery tracking and management.
+
 **Technologies Used**
-- React
+- React.js
 - Spring Boot
 - MySQL
 - REST API
-### 🌱 Currently Learning
+
+---
+
+## 🌱 Currently Learning
+
 - Spring Security
 - JWT Authentication
 - Docker
 
-### 📫 Connect with Me
+---
 
-- LinkedIn: linkedin.com/in/sandrapalli-sasi-kumar-4919312ba
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sandrapalli-sasi-kumar-4919312ba
