@@ -11,7 +11,31 @@
 - 🚀 Building a Delivery Management System project
 - 📚 Preparing for Java Full Stack Developer placements
 - 🤝 Always eager to learn new technologies and improve my coding skills
-  
+  ## 🛠️ Tech Stack
+
+### Programming Languages
+- Java
+- JavaScript
+- SQL
+
+### Frontend
+- HTML5
+- CSS3
+- React.js
+
+### Backend
+- Spring Boot
+- REST API
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- Postman
 💻 Passionate about Java, Spring Boot, React, MySQL, and Web Development.
 
 ### 🛠 Tech Stack
