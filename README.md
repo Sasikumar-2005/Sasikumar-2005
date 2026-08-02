@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Sasi Kumar
 
-<!--
-**Sasikumar-2005/Sasikumar-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Full Stack Developer
+🎓 Final Year B.Tech Student at Madanapalle Institute of Technology & Science
 
-Here are some ideas to get you started:
+💻 Passionate about Java, Spring Boot, React, MySQL, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Java
+- Spring Boot
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- MySQL
+- Git & GitHub
+
+### 🚀 Projects
+#### 🚚 Delivery Management System
+A full-stack web application for delivery tracking and management.
+**Technologies Used**
+- React
+- Spring Boot
+- MySQL
+- REST API
+### 🌱 Currently Learning
+- Spring Security
+- JWT Authentication
+- Docker
+
+### 📫 Connect with Me
+
+- LinkedIn: linkedin.com/in/sandrapalli-sasi-kumar-4919312ba
