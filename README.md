@@ -3,6 +3,15 @@
 ## Java Full Stack Developer
 🎓 Final Year B.Tech Student at Madanapalle Institute of Technology & Science
 
+## 👨‍💻 About Me
+
+- 🎓 Final Year B.Tech Student at Madanapalle Institute of Technology & Science
+- 💻 Passionate about Java Full Stack Development
+- 🌱 Currently learning Spring Boot, React.js, and MySQL
+- 🚀 Building a Delivery Management System project
+- 📚 Preparing for Java Full Stack Developer placements
+- 🤝 Always eager to learn new technologies and improve my coding skills
+- 
 💻 Passionate about Java, Spring Boot, React, MySQL, and Web Development.
 
 ### 🛠 Tech Stack
