@@ -36,17 +36,8 @@
 - VS Code
 - Eclipse
 - Postman
-💻 Passionate about Java, Spring Boot, React, MySQL, and Web Development.
-
-### 🛠 Tech Stack
-- Java
-- Spring Boot
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- MySQL
-- Git & GitHub
+  
+💻 Passionate about Java, Spring Boot, React, MySQL, and Web Development
 
 ### 🚀 Projects
 #### 🚚 Delivery Management System
